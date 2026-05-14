@@ -94,7 +94,7 @@ import { fadeUp } from "../utils/animaciones";
             >
             <div className="w-52 h-52 md:w-64 md:h-64 rounded-2xl overflow-hidden border-2 border-border">
                 <img
-                src="public/foto.jpg"
+                src="/foto.jpg"
                 alt="León Serrano"
                 className="w-full h-full object-cover"
                 />
